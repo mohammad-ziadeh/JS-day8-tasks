@@ -1,0 +1,14 @@
+.normal {
+  color: green;
+}
+
+.underweight {
+  color: red;
+}
+
+.overweight {
+  color: darkblue;
+}
+#err {
+  color: red;
+}
